@@ -31,6 +31,6 @@ app.post('/customer', (req, res) => {
   });
 });
 
-app.listen('55555', () => {
+app.listen('5555', () => {
   console.log('Up and running - Customer service');
 });
